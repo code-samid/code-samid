@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://samid-ahmed-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a2b4c?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/samidahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samidahmed?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/code-samid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:samid.ahmed1993@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -44,15 +46,21 @@
 
 ### 📌 Featured Projects
 
-**[MediQueue](https://mediqueue-client-omega.vercel.app/)** — Full-stack MERN tutor booking system
+**Donora** — Full-stack MERN blood donation platform
+Express, MongoDB, JWT, Stripe backend · React, Vite, Tailwind v4 frontend
+🔗 [Live](https://donora-client.vercel.app/) · [Client Repo](https://github.com/code-samid/Donora-client) · [Server Repo](https://github.com/code-samid/Donora-server) · [Server (Render)](https://donora-server.onrender.com)
+
+**MediQueue** — Full-stack MERN tutor booking system
 Firebase Auth + JWT, MongoDB, Express, React
 🔗 [Live](https://mediqueue-client-omega.vercel.app/) · [Backend](https://mediqueue-server-f4dh.onrender.com)
 
 **SkillSphere** — Next.js 16 learning platform
 Better Auth, Turso/LibSQL, full auth flow & session handling
+🔗 [Live](https://b13-a8-skillsphere.vercel.app/)
 
 **KeenKeeper** — Friendship CRM
 React, Vite, Recharts, DaisyUI, custom hooks & context-based state
+🔗 [Live](https://b13-a7-keen-keeper-xi.vercel.app/) · [Repo](https://github.com/code-samid/B13-A7-keen-keeper)
 
 > 👉 More details and case studies on my [portfolio](https://samid-ahmed-portfolio.netlify.app/)
 
@@ -70,7 +78,8 @@ React, Vite, Recharts, DaisyUI, custom hooks & context-based state
 ### 📬 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samidahmed" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/samidahmed?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/code-samid" target="_blank">GitHub</a> &nbsp;•&nbsp;
   <a href="https://samid-ahmed-portfolio.netlify.app/" target="_blank">Portfolio</a> &nbsp;•&nbsp;
   <a href="mailto:samid.ahmed1993@gmail.com">Email</a>
 </p>
