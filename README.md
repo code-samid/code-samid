@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samid Ahmed</h1>
+<p align="center">
+  <img src="./profile-banner.svg" alt="Samid Ahmed — Full-Stack Web Developer" width="100%" />
+</p>
+
 <h3 align="center">Full-Stack Web Developer (MERN) | Mechanical Engineer turned Developer</h3>
 
 <p align="center">
@@ -83,3 +86,4 @@ React, Vite, Recharts, DaisyUI, custom hooks & context-based state
   <a href="https://samid-ahmed-portfolio.netlify.app/" target="_blank">Portfolio</a> &nbsp;•&nbsp;
   <a href="mailto:samid.ahmed1993@gmail.com">Email</a>
 </p>
+
